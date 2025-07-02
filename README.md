@@ -1,2 +1,2 @@
-# Cpp-using-Doubly-Linked-List
-C++ using Singly Linked List.
+# C++ using Doubly Linked List
+C++ Programming language for creating Singly Linked List.
